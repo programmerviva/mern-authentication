@@ -1,0 +1,9 @@
+// filepath: /d:/Freelance Projects/ReactJs/backend/.gitignore
+node_modules/
+.env
+config.env
+*.env
+logs/
+*.log
+.DS_Store
+.vscode/
